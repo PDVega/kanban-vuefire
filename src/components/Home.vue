@@ -3,7 +3,52 @@
     <div class="row">
       <div class="col-md-12">
         <h1>KANBAN VUEFIRE</h1>
+        <button class="btn btn-primary" data-toggle="modal" data-target="#myModal">Add New Task</button>
         <hr>
+        <!-- backlog -->
+        <div class="col-md-3">
+          <div class="row">
+            <div class="col-sm-12">
+              <div class="thumbnail">
+                <h3>Backlog</h3>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <!-- todo -->
+        <div class="col-md-3">
+          <div class="row">
+            <div class="col-sm-12">
+              <div class="thumbnail">
+                <h3>Todo</h3>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <!-- in progress -->
+        <div class="col-md-3">
+          <div class="row">
+            <div class="col-sm-12">
+              <div class="thumbnail">
+                <h3>On Going</h3>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <!-- done -->
+        <div class="col-md-3">
+          <div class="row">
+            <div class="col-sm-12">
+              <div class="thumbnail">
+                <h3>Done</h3>
+              </div>
+            </div>
+          </div>
+        </div>
+        
       </div>
     </div>
   </div>
