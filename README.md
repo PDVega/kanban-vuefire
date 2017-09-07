@@ -1,6 +1,6 @@
 # kanban-vuefire
 
-> A Vue.js project
+> A Vue.js project [Live-KanbanVueFireApp](https://kanban-vue-firebase.firebaseapp.com/)
 
 ## Build Setup
 
